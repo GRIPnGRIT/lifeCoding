@@ -100,7 +100,11 @@ body {
 }
 
 .bi{
-  padding-right: 0.5rem;
+  padding-right: 0.5;
+}
+
+.logo{
+  padding-right: 9px;
 }
 
 hr {
